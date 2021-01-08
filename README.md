@@ -1,7 +1,11 @@
 # Simple blog application using react js with laravel api
 
 
+<<<<<<< HEAD
 ## Features
+=======
+## Caracteristicas
+>>>>>>> 3d7688d341840d53c9de26339f64a87ffbd65b69
 
     1. Laravel 5.8 Framework
     2. Laravel-Permission by spatie/laravel-permission
@@ -12,12 +16,20 @@
     7. Axios
     8. React Pagination
 
+<<<<<<< HEAD
 ### Requirements
+=======
+### Requisitos
+>>>>>>> 3d7688d341840d53c9de26339f64a87ffbd65b69
 
     1. PHP version upto 7.2    
     2. Laravel version  5.8   
 
+<<<<<<< HEAD
 ### Installation
+=======
+### Instalación
+>>>>>>> 3d7688d341840d53c9de26339f64a87ffbd65b69
 
     1. Clone the project using git clone   
     2. Copy a fresh .env file from laravel github    
@@ -31,6 +43,7 @@
 ### Seeder Class
     1. php artisan db:seed   to seed all seeder  
       
+<<<<<<< HEAD
     
 ### Troubleshootings
     
@@ -51,6 +64,9 @@
          
          email : admin@admin.com
          pass :  123456
+=======
+
+>>>>>>> 3d7688d341840d53c9de26339f64a87ffbd65b69
     
 Screenshot : 
 
@@ -62,6 +78,9 @@ Screenshot :
 ![alt text](./public/assets/images/screenshot/home.png)
 ![alt text](./public/assets/images/screenshot/blog_front.png)
 ![alt text](./public/assets/images/screenshot/details.png)
+<<<<<<< HEAD
 
  Find me on  Linkedin  : [My Linkedin profile  link](https://www.linkedin.com/in/monjur-morshed-riyadh-6aaba465/)  \
  Email me : riyadhahmed777@gmail.com
+=======
+>>>>>>> 3d7688d341840d53c9de26339f64a87ffbd65b69
