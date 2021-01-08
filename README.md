@@ -1,8 +1,6 @@
 # Simple blog application using react js with laravel api
 
 
-## Features
-=======
 ## Caracteristicas
 
     1. Laravel 5.8 Framework
@@ -14,15 +12,13 @@
     7. Axios
     8. React Pagination
 
-### Requirements
-=======
+
 ### Requisitos
 
     1. PHP version upto 7.2    
     2. Laravel version  5.8   
 
-### Installation
-=======
+
 ### Instalación
 
     1. Clone the project using git clone   
