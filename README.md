@@ -30,8 +30,11 @@
     7. npm install
     8. npm run dev
     
-    
-Screenshot : 
+### Login         
+         email : admin@admin.com
+         pass :  123456
+         
+### Screenshot : 
 
 ![alt text](./public/assets/images/screenshot/dashboard.png)
 ![alt text](./public/assets/images/screenshot/permission.png)
